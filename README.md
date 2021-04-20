@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arianaamx
-- 👀 I’m interested in ReactJS library and Front-end technologies!
+- 👀 My current interest is in ReactJS library
 - 🌱 I’m currently learning TypeScript and Jest
 - 📫 ariana.milasincic@gmail.com
 
