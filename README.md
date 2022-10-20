@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @arianaamx
-- 👀 My current interest is in ReactJS library
-- 🌱 I’m currently learning NextJS
+- 👀 My current interest are NextJS
 - 📫 ariana.milasincic@gmail.com
 
 <!---
